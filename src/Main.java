@@ -38,7 +38,7 @@ public class Main {
         System.out.println(kia);
         separation();
         System.out.println(hyundai);
-        separation();
+
 
     }
 }

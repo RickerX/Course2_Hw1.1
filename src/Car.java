@@ -14,8 +14,6 @@ public class Car {
         this.year = year;
         this.country = country;
     }
-
-    @Override
     public String toString() {
         return brand + " " + model + ", " + year + " года выпуска, сборка в " + country + ", " + color + " цвета, объем двигателя - " + engineVolume;
     }
